@@ -1,4 +1,4 @@
-# Async
+# 0x01-python_async_function
 
 This project contains tasks for learning to use asynchronous code in Python 3.
 
